@@ -1,0 +1,17 @@
+{
+  "name": "drobobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "imagesnapjs": "0.0.7",
+    "node-telegram-bot-api": "^0.29.0"
+  }
+}
